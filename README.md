@@ -21,8 +21,16 @@ The notebook requires the following Python packages:
 - Matplotlib
 - Seaborn
 
-## How to Run
-Open the Jupyter notebook and run the cells in order from top to bottom.
+## Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/lryan30/applied_statistics
+   cd applied_statistics
+
+2. Open the Jupyter notebook (problems.ipynb) and run the cells in order from top to bottom.
+
+The notebook can be opened using Jupyter Notebook, JupyterLab, or VS Code (with the Python and Jupyter extensions).
 
 ## Notes
 - References are included in the notebook.
